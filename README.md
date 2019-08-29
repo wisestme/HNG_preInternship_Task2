@@ -7,6 +7,9 @@
 
 ## Method
 Using HTML alone, I created a replica of my CV on a web page.
+
+## Page:
+https://github.com/wisestme/HNG_preInternship_Task2/blob/master/chijioke.html
  
 ## Contributing
 
