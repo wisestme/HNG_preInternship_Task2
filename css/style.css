@@ -2,4 +2,44 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	width: 90%;
+}
+
+header {
+	width: 80%;
+	margin: auto;
+	
+}
+
+.wrapper {
+
+}
+img {
+	width: 10em;
+	border-radius: 40%;
+	float: left;
+	margin-right: 2em;
+}
+
+h1, h2 {
+	position: relative;
+	top: 2em;
+}
+
+h3 {
+	position: relative;
+	bottom: 0.7em;
+	left: 20em;
+	
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+hr {
+	width: 86%;
+	margin: 0.5em auto;
 }
