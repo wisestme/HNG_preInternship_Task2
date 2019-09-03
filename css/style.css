@@ -58,10 +58,11 @@ blockquote {
 	font-size: large;
 }
 
-.skills {
+.skills, .academic {
 	display: flex;
 	width: 100%;
 	margin: auto;
+	border: 2px solid red;
 }
 
 .skills .sub-block {
@@ -96,4 +97,9 @@ h4 {
 	position: relative;
 	float: right;
 	bottom: 4em;
+}
+
+.academic .sub-block {
+	margin: 0 auto;
+	flex-flow: 1;
 }
