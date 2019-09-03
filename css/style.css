@@ -80,11 +80,12 @@ blockquote {
 ul {
 	display: inline-block;
 	padding-left: 0;
+	list-style: square;
 }
 
 li {
-	list-style: none;
-	display: block;
+	
+	display: list-item;
 	font-size: large;
 }
 
