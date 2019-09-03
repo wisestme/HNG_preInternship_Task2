@@ -103,3 +103,7 @@ h4 {
 	margin: 0 auto;
 	flex-flow: 1;
 }
+
+.bio .sub-block {
+	margin-left: 2em;
+}
