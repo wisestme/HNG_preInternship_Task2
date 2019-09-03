@@ -146,3 +146,29 @@ p {
 footer {
 	text-align: center;
 }
+
+.qualification {
+	color: #ac4fe7;
+	font-family: headerfont;
+	letter-spacing: 2px;
+	font-size: larger;
+}
+
+.school {
+	font-style: italic;
+}
+
+footer {
+	width: 90%;
+	padding: 15px;
+	margin: 15px auto 0 auto;
+	color: #fff;
+	background-color: purple;
+	text-align: center;
+}
+
+
+@font-face {
+	font-family:headerfont;
+	src:url('../fonts/aquarium.otf');
+}
