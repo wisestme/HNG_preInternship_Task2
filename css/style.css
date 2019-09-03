@@ -48,7 +48,7 @@ header h1, header h2 {
 
 header h3 {
 	position: relative;
-	bottom: 0.7em;
+	bottom: 1em;
 	right: -30em;
 	
 }
@@ -160,6 +160,7 @@ footer {
 
 a {
 	text-decoration: none;
+	
 }
 
 a:hover {
@@ -173,6 +174,10 @@ footer {
 	color: #fff;
 	background-color: #000030;
 	text-align: center;
+}
+
+footer a {
+	color: #fff;
 }
 
 
