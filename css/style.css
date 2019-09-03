@@ -9,14 +9,14 @@ body {
 }
 
 h1, h2, h3, h4 {
-	color: #ac4fe7;
+	color: #000080;
 }
 
 hr {
 	border-radius: 50%;
 	height: 12px;
     border: 0;
-	box-shadow: inset 0 12px 12px -12px rgba(172, 79, 231, 0.5);
+	box-shadow: inset 0 12px 12px -12px rgba(0, 0, 128, 0.5);
 }
 
 h1 {
@@ -93,7 +93,7 @@ blockquote {
 }
 
 .skills .sub-block:nth-child(-n+2) {
-	border-right: 2px solid rgba(172, 79, 231, 0.5);
+	border-right: 2px solid rgba(0, 0, 128, 0.5);
 	border-radius: 15%;
 	
     
@@ -148,7 +148,7 @@ footer {
 }
 
 .qualification {
-	color: #ac4fe7;
+	color: #000080;
 	font-family: headerfont;
 	letter-spacing: 2px;
 	font-size: larger;
@@ -163,7 +163,7 @@ footer {
 	padding: 15px;
 	margin: 15px auto 0 auto;
 	color: #fff;
-	background-color: purple;
+	background-color: #000030;
 	text-align: center;
 }
 
