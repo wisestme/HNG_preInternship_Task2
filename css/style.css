@@ -30,7 +30,7 @@ header h1, header h2 {
 header h3 {
 	position: relative;
 	bottom: 0.7em;
-	left: 20em;
+	right: -30em;
 	
 }
 
