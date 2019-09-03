@@ -107,3 +107,7 @@ h4 {
 .bio .sub-block {
 	margin-left: 2em;
 }
+
+.misc p {
+	text-align: center;
+}
