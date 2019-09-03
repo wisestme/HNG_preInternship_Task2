@@ -77,6 +77,10 @@ blockquote {
 	border-right: 2px solid;
 }
 
+.skills .sub-block li {
+	display: block;
+}
+
 ul {
 	display: inline-block;
 	padding-left: 0;
@@ -84,7 +88,6 @@ ul {
 }
 
 li {
-	
 	display: list-item;
 	font-size: large;
 }
