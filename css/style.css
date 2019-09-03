@@ -12,7 +12,10 @@ h1, h2 {
 	color: #ac4fe7;
 }
 
-
+hr {
+	border: 1.2px solid #ac4fe7;
+	border-radius: 50%;
+}
 
 h2 {
 	margin-right: 2em;
