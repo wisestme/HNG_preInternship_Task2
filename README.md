@@ -1,15 +1,15 @@
-# Title: HNG Preinternship Task 2
+# Title: HNG Preinternship Task 3
 
 ## Author: Nwagwu Chijioke
 
 ## Purpose: 
-* ### To explore the possibilities of design and layout of a web page with HTML alone.
+* ### To see the effectiveness of using CSS for layout and styling web pages
 
 ## Method
-Using HTML alone, I created a replica of my CV on a web page.
+I have added some CSS to the CVcreated in the previous task
 
 ## Page:
-https://github.com/wisestme/HNG_preInternship_Task2/blob/master/chijioke.html
+https://lucid.blog/wyhzest/post/html-with-and-without-css-d02
  
 ## Contributing
 
@@ -19,3 +19,4 @@ This repository is my project work to be reviewed and evaluated. Therefore, I mo
 
 https://twitter.com/wisestMe/status/1166997758332588033
 https://wisestme.wordpress.com/2019/08/26/behold-the-beauty-of-the-world/
+https://lucid.blog/wyhzest/post/html-with-and-without-css-d02
