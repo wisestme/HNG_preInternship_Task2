@@ -195,7 +195,6 @@ footer a {
 		display: inline-block;
 		letter-spacing: 0.5px;
 		font-size: larger;
-		color: red;
 	}
 	
 }
@@ -204,7 +203,6 @@ footer a {
 	header .wrapper h3 {
 		position: relative;
 		left: 22em;
-		color: red;
 	}
 }
 
