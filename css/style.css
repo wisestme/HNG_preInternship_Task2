@@ -115,10 +115,10 @@ li {
 	font-size: large;
 }
 
-h3 {
+/*h3 {
 	position: relative;
 	margin-bottom: 0;
-}
+}*/
 
 h4 {
 	position: relative;
@@ -184,4 +184,13 @@ footer a {
 @font-face {
 	font-family:headerfont;
 	src:url('../fonts/aquarium.otf');
+}
+
+/************************
+* MEDIA QUERIES
+*/
+@media screen and (max-width: 1200px) {
+	h3 {
+		right: -20em;
+	}
 }
