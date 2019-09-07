@@ -189,8 +189,15 @@ footer a {
 /************************
 * MEDIA QUERIES
 */
-@media screen and (max-width: 1200px) {
-	h3 {
-		right: -20em;
+
+
+
+@media screen and (max-width: 1100px) {
+	header .wrapper h3 {
+		position: relative;
+		left: 22em;
+		color: red;
 	}
 }
+
+
